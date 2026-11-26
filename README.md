@@ -49,9 +49,9 @@ image-workbench demo --help
 
 ~~~text
 src/image_workbench/
-   cli.py          # Argument parsing and user-facing messages
-   demo.py         # Synthetic input and output artifact pipeline
-   operations.py   # Independent image transformations
+├── cli.py          # Argument parsing and user-facing messages
+├── demo.py         # Synthetic input and output artifact pipeline
+└── operations.py   # Independent image transformations
 ~~~
 
 ## Data and provenance
